@@ -13,9 +13,9 @@ This repository contains a minimalistic console-based Snake game implemented in 
 3. Build and run the game.
 4. Build the playground area to your own liking.
 5. Move with the arrow keys on the keyboard.
-##5. Don't go above the 30 characters vertical limit or the game will break!!!##
-6.Have fun 🎉!!!
-      
+6. Don't go above the 30 characters vertical limit or the game will break!!!
+7. Have fun 🎉!!!
+
 ## Features
 
 - Simple and intuitive gameplay.
